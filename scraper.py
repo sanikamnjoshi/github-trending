@@ -27,7 +27,6 @@ def scrape(lang):
 		
 	file.close()
 
-
 # for java
 scrape("java")
 print("Text file of Java trending repos created.")
